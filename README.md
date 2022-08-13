@@ -1,3 +1,5 @@
 # NewsAppMVVM
 MVVM with RxSwift
-[UC-5b483e5b-2100-4e25-90fe-742bee6f6954.pdf](https://github.com/YamamotoDesu/NewsAppMVVM/files/9330984/UC-5b483e5b-2100-4e25-90fe-742bee6f6954.pdf)
+<img width="875" src="https://user-images.githubusercontent.com/47273077/184473284-e9081764-61fa-4c92-89a5-83132b0f8017.png">
+
+
